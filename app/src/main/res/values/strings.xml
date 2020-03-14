@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">RSQIS</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="already_registered">Already Registered?</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="email">Email</string>
+    <string name="phone_no">Phone No</string>
+    <string name="user_name">User Name</string>
+    <string name="register">Register</string>
+    <string name="email_address">Email Address</string>
+    <string name="name">name</string>
+    <string name="not_registered">Not Registered?</string>
+    <string name="upload_proof">Upload Proof</string>
+    <string name="describe_the_issue">Describe the issue:</string>
+    <string name="take_photo">Take Photo</string>
+    <string name="from_gallery">From Gallery</string>
+    <string name="upload">Upload</string>
+    <string name="take_video">Take Video</string>
+    <string name="view_photo">View Photo</string>
+    <string name="view_video">View Video</string>
+    <string name="logout">Logout</string>
+    <string name="enter_the_address">Enter the address:</string>
+    <string name="register_your_issue">Register your issue:</string>
+    <string name="enter_the_address_of_the_road">Enter the address of the road:</string>
+    <string name="host">http://192.168.1.203:3000/worker/</string>
+
+</resources>
